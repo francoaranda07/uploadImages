@@ -1,0 +1,23 @@
+.cardPersonal{
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+}
+
+
+.botonF1{
+    width:60px;
+    height:60px;
+    border-radius:100%;
+    background:#000000;
+    right:1;
+    bottom:0;
+    position:fixed;
+    margin-right:16px;
+    margin-bottom:16px;
+    border:0;
+    outline:none;
+    color:#FFF;
+    font-size:36px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    transition:.3s;  
+}
